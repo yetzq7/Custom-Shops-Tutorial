@@ -26,7 +26,7 @@ Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id
 ## Contrails - AthenaSkyDiveContrail
 
 -----------------------------
-
+-----------------------------
 ## Example of a correct template ✅:
 
 "itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
