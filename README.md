@@ -5,8 +5,11 @@
 **In the catalog.json or catalog_config.json of your backend (can be different) you will be met with the item shop template**
 
 "//": "BR Item Shop Config",
+
   "daily1": {
+  
       "itemGrants": [""],
+      
       "price": 1500
 
 Look for this: **"itemGrants": [""],**
