@@ -34,5 +34,8 @@ Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id
 Hit save after setting everything and then boom, now you have made a custom item shop!
 
 **REMINDERS:**
+-
 **ALWAYS REMEMBER THE QUOTATION MARKS**
+-
+**Do not use commas for the prices only use the digits. (Example: 1500,1000,20000)
 
