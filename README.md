@@ -10,7 +10,7 @@
 
 Look for this: "itemGrants": [""],
 
-Between the quotation marks set it to **example: AthenaCharcter:ID** -- Item id goes there
+Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id goes there
 
 
 # Here is a list of item types
