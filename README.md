@@ -11,7 +11,7 @@
 
 Look for this: **"itemGrants": [""],**
 
-**Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id goes there**
+Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id goes there
 
 *Notice: you cant put ch2 skin id's and expect them to be magically ported to ch1 lol*
 
