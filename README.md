@@ -23,11 +23,11 @@ Between the quotation marks set it to **example: AthenaCharcter:ID** -- Item id 
 ## Loading Screens - AthenaLoadingScreen
 ## Contrails - AthenaSkyDiveContrail
 
-
+-----------------------------
 
 # Example of a correct template:
 
 "itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
 
-** ALWAYS REMEMBER THE QUOTATION MARKS **
+**ALWAYS REMEMBER THE QUOTATION MARKS**
 
