@@ -1,5 +1,5 @@
 ## OGFN CUSTOM ITEM SHOP TUTO
-# First you are going to want to find the IDS with https://fortnite.gg
+# First you are going to want to find the IDS with https://fortnite.gg/cosmetics
 
 **In the catalog.json or catalog_config.json of your backend (can be different) you will be met with the item shop template**
 
@@ -23,4 +23,9 @@ Between the quotation marks set it to **example: AthenaCharcter:ID** -- Item id 
 ## Loading Screens - AthenaLoadingScreen
 ## Contrails - AthenaSkyDiveContrail
 
+## Example of a correct template:
+
+"itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
+
+** ALWAYS REMEMBER THE QUOTATION MARKS **
 
