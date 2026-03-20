@@ -3,9 +3,10 @@ First you are going to want to find the IDS with https://fortnite.gg
 
 In the catalog.json or catalog_config.json of your backend (can be different) you will be met with the item shop template
 
-'''json
 "//": "BR Item Shop Config",
   "daily1": {
       "itemGrants": [""],
       "price": 1500
-'''
+
+Look for this: "itemGrants": [""],
+
