@@ -28,9 +28,9 @@ Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id
 -----------------------------
 
 # Example of a correct template ✅:
--
-"itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
 
+"itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
+-
 
 # Incorrect templates ❌:
 "itemGrants": ["AthenaCharacter:Pickaxe_ID_376_FNCS"], --- Use the proper item type
