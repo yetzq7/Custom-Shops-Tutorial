@@ -31,11 +31,14 @@ Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id
 
 ## itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
 
+-----------------------------
 ----------------------------
 # Incorrect templates ❌:
 ## "itemGrants": ["AthenaCharacter:Pickaxe_ID_376_FNCS"], --- Use the proper item type
 
 ## "itemGrants": [AthenaCharacter:Pickaxe_ID_376_FNCS], --- Remember the **quotation marks**
+------------------------------
+--------------------------------
 
 
 **Hit save after setting everything and then boom, now you have made a custom item shop!**
