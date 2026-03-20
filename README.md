@@ -8,7 +8,7 @@
       "itemGrants": [""],
       "price": 1500
 
-Look for this: "itemGrants": [""],
+Look for this: **"itemGrants": [""],**
 
 Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id goes there
 
