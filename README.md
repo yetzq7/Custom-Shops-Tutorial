@@ -31,5 +31,8 @@ Between the quotation marks set it to **example: AthenaCharacter:ID** -- Item id
 
 "itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
 
+Hit save after setting everything and then boom, now you have made a custom item shop!
+
+**REMINDERS:**
 **ALWAYS REMEMBER THE QUOTATION MARKS**
 
