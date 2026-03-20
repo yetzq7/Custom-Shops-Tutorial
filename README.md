@@ -8,5 +8,5 @@ In the catalog.json or catalog_config.json of your backend (can be different) yo
       "itemGrants": [""],
       "price": 1500
 
-Look for this: "itemGrants": [""],
+## Look for this: "itemGrants": [""],
 
