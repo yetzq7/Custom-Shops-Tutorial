@@ -14,13 +14,13 @@ Between the quotation marks set it to **example: AthenaCharcter:ID** -- Item id 
 
 
 ## Here is a list of item types
-Skins - AthenaCharacter
-Emotes - AthenaDance
-Pickaxes - AthenaPickaxe
-Backblings - AthenaBackpack
-Gliders - AthenaGlider
-Wraps - AthenaItemWrap
-Loading Screens - AthenaLoadingScreen
-Contrails - AthenaSkyDiveContrail
+# Skins - AthenaCharacter
+# Emotes - AthenaDance
+# Pickaxes - AthenaPickaxe
+# Backblings - AthenaBackpack
+# Gliders - AthenaGlider
+# Wraps - AthenaItemWrap
+# Loading Screens - AthenaLoadingScreen
+# Contrails - AthenaSkyDiveContrail
 
 
