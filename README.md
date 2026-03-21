@@ -38,7 +38,7 @@ Between the quotation marks set it to **example: AthenaITEMTYPE:ID** -- Item id 
 # Incorrect templates ❌:
 ## "itemGrants": ["AthenaCharacter:Pickaxe_ID_376_FNCS"], --- Use the proper item type
 
-## "itemGrants": [AthenaCharacter:Pickaxe_ID_376_FNCS], --- Remember the **quotation marks**
+## "itemGrants": [AthenaPickaxe:Pickaxe_ID_376_FNCS], --- Remember the **quotation marks**
 ------------------------------
 --------------------------------
 
